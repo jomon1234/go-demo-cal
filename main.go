@@ -18,7 +18,7 @@ func main() {
 	var f_op int
 	var s_op int
 
-	fmt.Println("Golang Demo Calc")
+	fmt.Println("Golang Demo Calculateeee")
 	fmt.Println("======================")
 
 	fmt.Println("Enter the first number")
